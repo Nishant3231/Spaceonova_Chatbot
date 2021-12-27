@@ -1,0 +1,18 @@
+Intro:
+A chatbot is an application used to converse/communicate to computer virtually as human would do using textual method or auditory method.
+
+Using RASA-NLU and RASA-SDK
+
+Purpose of chatbot:
+- General info about spaceonova
+- Info about LMS system
+- Appointment Booking
+- Customer Support
+- address a query
+- frequently asked questions
+
+RASA is an open source framework used to make AI chatbots.
+RASA OPEN SOURCE provides infrastructure and RASA X provides graphical user interface to strengthen the features.
+
+What is .md and .yml file? markdown file is advance version of .txt file. yml file is downloaded/come when we call through
+APIs, it's just a medium between sever to server.
