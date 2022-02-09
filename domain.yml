@@ -9,8 +9,10 @@ intents:
 - deny
 - mood_great
 - mood_unhappy
+- thank
 - bot_challenge
 - spaceonova_intro
+- courses
 - about_people
 - corona_intro
 - corona_spread
@@ -21,6 +23,9 @@ intents:
 responses:
   utter_greet:
   - text: "Hey! How are you?"
+  - text: "Hii"
+  - text: "Hey!"
+  - text: "Hey! What can I do for you?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -34,6 +39,8 @@ responses:
 
   utter_goodbye:
   - text: Bye
+  - text: "Bbyee"
+  - text: "Take Care <3"
 
   utter_happy:
   - text: "Great, carry on!"
@@ -48,6 +55,11 @@ responses:
 
   utter_people:
   - text: "Shivam Kumar Singh"
+
+  utter_courses:
+  - text: "- Python Training Programme and Master Class\n
+          - Rocketry Master class\n
+          - Astrobiology Training Programme and Master Class\n"
 
   utter_corona_intro:
   - text: Coronaviruses are a group of related viruses that cause diseases in mammals
@@ -106,6 +118,7 @@ actions:
 - utter_iamabot
 - utter_intro
 - utter_people
+- utter_courses
 - utter_corona_intro
 - utter_corona_spread
 - utter_corona_food_spread

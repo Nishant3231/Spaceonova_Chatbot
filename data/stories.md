@@ -2,6 +2,14 @@
 * greet
   - utter_greet
 
+## mood happy
+* mood_great
+  - utter_happy
+
+## mood unhappy
+* mood_unhappy
+  - utter_cheer_up
+
 ## thank you
 * thank
   - utter_welcome
@@ -39,3 +47,7 @@
 ## corona high risk
 * high_risk
    - utter_high_risk
+
+## courses
+* courses
+  - utter_courses

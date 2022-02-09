@@ -16,6 +16,18 @@
 - hi folks
 - hi again
 - hii
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- who are you?
+- what are you?
+- what's up
+- how do you do?
 
 ## intent:goodbye
 - bye
@@ -38,6 +50,16 @@
 - bbyee
 - byeeeee
 - take care
+- i'm off
+- see you later alligator
+- we'll speak soon
+- end
+- finish
+- bye for now
+- see you
+- gotta go
+- catch you later
+
 
 ## intent: thank
 - Thanks
@@ -72,7 +94,20 @@
 ## intent: about_people
     - who is ceo?
     - who is the ceo of organisation?
-    
+    - ceo
+
+## intent: courses
+    - name some courses
+    - what courses do spaceonova provide?
+    - what courses this organisation teach?
+    - which type of courses do you teach?
+    - what are some training programmes?
+    - training programmes
+    - courses
+    - name some training programmes
+    - name some master classes
+    - masterclass
+    - master class
 
 ## intent:corona_intro
 - What is corona virus
